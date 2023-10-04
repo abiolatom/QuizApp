@@ -5,4 +5,4 @@
 
 # However
 
-The project remains undone, there are some modiufications to me made at a later time.
+The project remains undone, there are some modifications to me made at a later time.
